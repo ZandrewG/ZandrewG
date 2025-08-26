@@ -27,82 +27,41 @@ Here are some ideas to get you started:
 
 #### 🌐 Languages  
 <p align="left">
-  <a href="https://developer.mozilla.org/en-US/docs/Web/HTML" target="_blank">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="40" height="40" alt="HTML5"/>
-  </a>
-  <a href="https://developer.mozilla.org/en-US/docs/Web/CSS" target="_blank">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" width="40" height="40" alt="CSS3"/>
-  </a>
-  <a href="https://dev.mysql.com/doc/" target="_blank">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" width="40" height="40" alt="SQL/MySQL"/>
-  </a>
-  <a href="https://docs.python.org/3/" target="_blank">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="40" height="40" alt="Python"/>
-  </a>
-  <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="40" height="40" alt="JavaScript"/>
-  </a>
-  <a href="https://www.typescriptlang.org/docs/" target="_blank">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" width="40" height="40" alt="TypeScript"/>
-  </a>
-  <a href="https://devdocs.io/c/" target="_blank">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" width="40" height="40" alt="C"/>
-  </a>
-  <a href="https://cplusplus.com/doc/" target="_blank">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" width="40" height="40" alt="C++"/>
-  </a>
-  <a href="https://www.gnu.org/software/bash/manual/bash.html" target="_blank">
-    <img src="https://cdn.simpleicons.org/gnubash/4EAA25" width="40" height="40" alt="Bash"/>
-  </a>
+  [<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="40" height="40" alt="HTML5"/>](https://developer.mozilla.org/en-US/docs/Web/HTML)
+  [<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" width="40" height="40" alt="CSS3"/>](https://developer.mozilla.org/en-US/docs/Web/CSS)
+  [<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" width="40" height="40" alt="SQL/MySQL"/>](https://dev.mysql.com/doc/)
+  [<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="40" height="40" alt="Python"/>](https://docs.python.org/3/)
+  [<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="40" height="40" alt="JavaScript"/>](https://developer.mozilla.org/en-US/docs/Web/JavaScript)
+  [<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" width="40" height="40" alt="TypeScript"/>](https://www.typescriptlang.org/docs/)
+  [<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" width="40" height="40" alt="C"/>](https://devdocs.io/c/)
+  [<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" width="40" height="40" alt="C++"/>](https://cplusplus.com/doc/)
+  [<img src="https://cdn.simpleicons.org/gnubash/4EAA25" width="40" height="40" alt="Bash"/>](https://www.gnu.org/software/bash/manual/bash.html)
 </p>
 
 #### ⚛️ Web Development  
 <p align="left">
-  <a href="https://react.dev/" target="_blank">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" width="40" height="40" alt="React"/>
-  </a>
-  <a href="https://nextjs.org/docs" target="_blank">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original.svg" width="40" height="40" alt="Next.js"/>
-  </a>
-  <a href="https://nodejs.org/en/docs/" target="_blank">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" width="40" height="40" alt="Node.js"/>
-  </a>
-  <a href="https://vercel.com/docs" target="_blank">
-    <img src="https://cdn.simpleicons.org/vercel/000000" width="40" height="40" alt="Vercel"/>
-  </a>
+  [<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" width="40" height="40" alt="React"/>](https://react.dev/)
+  [<img src="https://cdn.simpleicons.org/nextdotjs/FFFFFF" width="40" height="40" alt="Next.js"/>](https://nextjs.org/docs)
+  [<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" width="40" height="40" alt="Node.js"/>](https://nodejs.org/en/docs/)
+  [<img src="https://cdn.simpleicons.org/vercel/FFFFFF" width="40" height="40" alt="Vercel"/>](https://vercel.com/docs)
 </p>
 
 #### 🗄️ Databases  
 <p align="left">
-  <a href="https://dev.mysql.com/doc/" target="_blank">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" width="40" height="40" alt="MySQL"/>
-  </a>
-  <a href="https://firebase.google.com/docs" target="_blank">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/firebase/firebase-plain.svg" width="40" height="40" alt="Firebase"/>
-  </a>
-  <a href="https://supabase.com/docs" target="_blank">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/supabase/supabase-original.svg" width="40" height="40" alt="Supabase"/>
-  </a>
+  [<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" width="40" height="40" alt="MySQL"/>](https://dev.mysql.com/doc/)
+  [<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/firebase/firebase-plain.svg" width="40" height="40" alt="Firebase"/>](https://firebase.google.com/docs)
+  [<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/supabase/supabase-original.svg" width="40" height="40" alt="Supabase"/>](https://supabase.com/docs)
 </p>
 
 #### 🔧 Tools & Cloud  
 <p align="left">
-  <a href="https://git-scm.com/doc" target="_blank">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="40" height="40" alt="Git"/>
-  </a>
-  <a href="https://docs.docker.com/" target="_blank">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" width="40" height="40" alt="Docker"/>
-  </a>
-  <a href="https://cloud.google.com/docs" target="_blank">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/googlecloud/googlecloud-original.svg" width="40" height="40" alt="Google Cloud"/>
-  </a>
-  <a href="https://ubuntu.com/tutorials" target="_blank">
-    <img src="https://cdn.simpleicons.org/ubuntu/E95420" width="40" height="40" alt="Ubuntu"/>
-  </a>
-  <a href="https://docs.streamlit.io/" target="_blank">
-    <img src="https://cdn.simpleicons.org/streamlit/FF4B4B" width="40" height="40" alt="Streamlit"/>
-  </a>
-</p>  
+  [<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="40" height="40" alt="Git"/>](https://git-scm.com/doc)
+  [<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" width="40" height="40" alt="Docker"/>](https://docs.docker.com/)
+  [<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/googlecloud/googlecloud-original.svg" width="40" height="40" alt="Google Cloud"/>](https://cloud.google.com/docs)
+  [<img src="https://cdn.simpleicons.org/ubuntu/E95420" width="40" height="40" alt="Ubuntu"/>](https://ubuntu.com/tutorials)
+  [<img src="https://cdn.simpleicons.org/streamlit/FF4B4B" width="40" height="40" alt="Streamlit"/>](https://docs.streamlit.io/)
+</p>
+
 
 
 
