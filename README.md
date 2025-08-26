@@ -108,8 +108,8 @@ Here are some ideas to get you started:
 - Building AI agents using N8N for personal use and workflow optimization
 
 ### 🌟 Previous Works  
-- [**Multilayer Graph Crossing Minimization**](link-to-repo) – Implemented and benchmarked hybrid algorithms to reduce edge crossings in hierarchical graphs.
-- [**TeddyCare**](link-to-repo) – Developed an IoT-based embedded system that enables parents to remotely soothe their children.
+- [**Multilayer Graph Crossing Minimization**](https://github.com/ZandrewG/Crossing-Minimization-in-k-layered-Hierarchical-Graphs) – Implemented and benchmarked hybrid algorithms to reduce edge crossings in hierarchical graphs.
+- [**TeddyCare**](https://github.com/inunice/teddycare) – Developed an IoT-based embedded system that enables parents to remotely soothe their children.
 - [**SagotKita Web Application**] – Built a full-stack platform for the UP Diliman Department of Psychology for creating and analyzing psychological surveys using ESM methodology.
 - [**SagotKita Mobile Application**] – Created a mobile companion app to allow the UP community to respond to ESM-based surveys on the go.
 
