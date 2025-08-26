@@ -113,6 +113,10 @@ Here are some ideas to get you started:
 - **SagotKita Web Application** – Built a full-stack platform for the UP Diliman Department of Psychology for creating and analyzing psychological surveys using ESM methodology.
 - **SagotKita Mobile Application** – Created a mobile companion app to allow the UP community to respond to ESM-based surveys on the go.
 
+### 😄 Away from the monitor
+- I read books to ease the strain on my eyes and to relax.
+- When I prefer to get out my chair, I run or play badminton (I'm more of a runner though!).
+- 
 ### 📫 Let's strike up a conversation 
 <p align="left">
   <a href="mailto:zandrew.garais@gmail.com">
@@ -122,4 +126,5 @@ Here are some ideas to get you started:
     <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
   </a>
 </p>
+
 
