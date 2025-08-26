@@ -116,7 +116,8 @@ Here are some ideas to get you started:
 ### 😄 Away from the monitor
 - I read books to ease the strain on my eyes and to relax.
 - When I prefer to get out my chair, I run or play badminton (I'm more of a runner though!).
-- 
+
+
 ### 📫 Let's strike up a conversation 
 <p align="left">
   <a href="mailto:zandrew.garais@gmail.com">
