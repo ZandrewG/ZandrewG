@@ -59,14 +59,21 @@ Here are some ideas to get you started:
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/googlecloud/googlecloud-original.svg" width="40" height="40" alt="Google Cloud"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/ubuntu/ubuntu-plain.svg" width="40" height="40" alt="Ubuntu"/>
 </p>  
----
+
 
 ### 🌟 Featured Projects  
 - [**Graph Crossing Minimization**](link-to-repo) – Research implementation of crossing minimization algorithms  
 - [**Embedded Systems Project**](link-to-repo) – IoT-based solution developed during coursework  
 
----
+
 
 ### 📫 Connect with Me  
-- **Email:** your.email@email.com  
-- **LinkedIn:** [linkedin.com/in/yourprofile](#)  
+<p align="left">
+  <a href="mailto:zandrew.garais@gmail.com">
+    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail"/>
+  </a>
+  <a href="https://www.linkedin.com/in/yourprofile" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
+  </a>
+</p>
+
