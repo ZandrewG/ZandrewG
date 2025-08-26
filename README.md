@@ -21,7 +21,7 @@ Here are some ideas to get you started:
 💻 Passionate about **web development** and exploring **data-driven & AI projects**  
 🚀 Experienced in full-stack development, embedded systems, and algorithmic research  
 
----
+
 
 ### 🛠 Tech Stack  
 
@@ -51,7 +51,7 @@ Here are some ideas to get you started:
   <a href="https://cplusplus.com/doc/" target="_blank">
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" width="40" height="40" alt="C++"/>
   </a>
-  <a href="https://www.gnu.org/software/bash/manual/" target="_blank">
+  <a href="https://www.gnu.org/software/bash/manual/bash.html" target="_blank">
     <img src="https://cdn.simpleicons.org/gnubash/4EAA25" width="40" height="40" alt="Bash"/>
   </a>
 </p>
@@ -66,6 +66,9 @@ Here are some ideas to get you started:
   </a>
   <a href="https://nodejs.org/en/docs/" target="_blank">
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" width="40" height="40" alt="Node.js"/>
+  </a>
+  <a href="https://vercel.com/docs" target="_blank">
+    <img src="https://cdn.simpleicons.org/vercel/000000" width="40" height="40" alt="Vercel"/>
   </a>
 </p>
 
@@ -96,7 +99,11 @@ Here are some ideas to get you started:
   <a href="https://ubuntu.com/tutorials" target="_blank">
     <img src="https://cdn.simpleicons.org/ubuntu/E95420" width="40" height="40" alt="Ubuntu"/>
   </a>
+  <a href="https://docs.streamlit.io/" target="_blank">
+    <img src="https://cdn.simpleicons.org/streamlit/FF4B4B" width="40" height="40" alt="Streamlit"/>
+  </a>
 </p>  
+
 
 
 
