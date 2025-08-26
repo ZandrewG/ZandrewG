@@ -27,40 +27,83 @@ Here are some ideas to get you started:
 
 #### 🌐 Languages  
 <p align="left">
-  [<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="40" height="40" alt="HTML5"/>](https://developer.mozilla.org/en-US/docs/Web/HTML)
-  [<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" width="40" height="40" alt="CSS3"/>](https://developer.mozilla.org/en-US/docs/Web/CSS)
-  [<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" width="40" height="40" alt="SQL/MySQL"/>](https://dev.mysql.com/doc/)
-  [<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="40" height="40" alt="Python"/>](https://docs.python.org/3/)
-  [<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="40" height="40" alt="JavaScript"/>](https://developer.mozilla.org/en-US/docs/Web/JavaScript)
-  [<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" width="40" height="40" alt="TypeScript"/>](https://www.typescriptlang.org/docs/)
-  [<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" width="40" height="40" alt="C"/>](https://devdocs.io/c/)
-  [<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" width="40" height="40" alt="C++"/>](https://cplusplus.com/doc/)
-  [<img src="https://cdn.simpleicons.org/gnubash/4EAA25" width="40" height="40" alt="Bash"/>](https://www.gnu.org/software/bash/manual/bash.html)
+  <a href="https://developer.mozilla.org/en-US/docs/Web/HTML" title="HTML Docs" style="text-decoration:none;border-bottom:0;">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="40" height="40" alt="HTML5" style="margin-right:10px;" />
+  </a>
+  <a href="https://developer.mozilla.org/en-US/docs/Web/CSS" title="CSS Docs" style="text-decoration:none;border-bottom:0;">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" width="40" height="40" alt="CSS3" style="margin-right:10px;" />
+  </a>
+  <a href="https://dev.mysql.com/doc/" title="MySQL Docs" style="text-decoration:none;border-bottom:0;">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" width="40" height="40" alt="MySQL" style="margin-right:10px;" />
+  </a>
+  <a href="https://docs.python.org/3/" title="Python Docs" style="text-decoration:none;border-bottom:0;">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="40" height="40" alt="Python" style="margin-right:10px;" />
+  </a>
+  <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" title="JavaScript Docs" style="text-decoration:none;border-bottom:0;">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="40" height="40" alt="JavaScript" style="margin-right:10px;" />
+  </a>
+  <a href="https://www.typescriptlang.org/docs/" title="TypeScript Docs" style="text-decoration:none;border-bottom:0;">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" width="40" height="40" alt="TypeScript" style="margin-right:10px;" />
+  </a>
+  <a href="https://devdocs.io/c/" title="C Docs" style="text-decoration:none;border-bottom:0;">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" width="40" height="40" alt="C" style="margin-right:10px;" />
+  </a>
+  <a href="https://cplusplus.com/doc/" title="C++ Docs" style="text-decoration:none;border-bottom:0;">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" width="40" height="40" alt="C++" style="margin-right:10px;" />
+  </a>
+  <a href="https://www.gnu.org/software/bash/manual/bash.html" title="Bash Manual" style="text-decoration:none;border-bottom:0;">
+    <img src="https://cdn.simpleicons.org/gnubash/4EAA25" width="40" height="40" alt="Bash" style="margin-right:10px;" />
+  </a>
 </p>
 
 #### ⚛️ Web Development  
 <p align="left">
-  [<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" width="40" height="40" alt="React"/>](https://react.dev/)
-  [<img src="https://cdn.simpleicons.org/nextdotjs/FFFFFF" width="40" height="40" alt="Next.js"/>](https://nextjs.org/docs)
-  [<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" width="40" height="40" alt="Node.js"/>](https://nodejs.org/en/docs/)
-  [<img src="https://cdn.simpleicons.org/vercel/FFFFFF" width="40" height="40" alt="Vercel"/>](https://vercel.com/docs)
+  <a href="https://react.dev/" title="React Docs" style="text-decoration:none;border-bottom:0;">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" width="40" height="40" alt="React" style="margin-right:10px;" />
+  </a>
+  <a href="https://nextjs.org/docs" title="Next.js Docs" style="text-decoration:none;border-bottom:0;">
+    <img src="https://cdn.simpleicons.org/nextdotjs/FFFFFF" width="40" height="40" alt="Next.js" style="margin-right:10px;" />
+  </a>
+  <a href="https://nodejs.org/en/docs/" title="Node.js Docs" style="text-decoration:none;border-bottom:0;">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" width="40" height="40" alt="Node.js" style="margin-right:10px;" />
+  </a>
+  <a href="https://vercel.com/docs" title="Vercel Docs" style="text-decoration:none;border-bottom:0;">
+    <img src="https://cdn.simpleicons.org/vercel/FFFFFF" width="40" height="40" alt="Vercel" style="margin-right:10px;" />
+  </a>
 </p>
 
 #### 🗄️ Databases  
 <p align="left">
-  [<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" width="40" height="40" alt="MySQL"/>](https://dev.mysql.com/doc/)
-  [<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/firebase/firebase-plain.svg" width="40" height="40" alt="Firebase"/>](https://firebase.google.com/docs)
-  [<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/supabase/supabase-original.svg" width="40" height="40" alt="Supabase"/>](https://supabase.com/docs)
+  <a href="https://dev.mysql.com/doc/" title="MySQL Docs" style="text-decoration:none;border-bottom:0;">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" width="40" height="40" alt="MySQL" style="margin-right:10px;" />
+  </a>
+  <a href="https://firebase.google.com/docs" title="Firebase Docs" style="text-decoration:none;border-bottom:0;">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/firebase/firebase-plain.svg" width="40" height="40" alt="Firebase" style="margin-right:10px;" />
+  </a>
+  <a href="https://supabase.com/docs" title="Supabase Docs" style="text-decoration:none;border-bottom:0;">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/supabase/supabase-original.svg" width="40" height="40" alt="Supabase" style="margin-right:10px;" />
+  </a>
 </p>
 
 #### 🔧 Tools & Cloud  
 <p align="left">
-  [<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="40" height="40" alt="Git"/>](https://git-scm.com/doc)
-  [<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" width="40" height="40" alt="Docker"/>](https://docs.docker.com/)
-  [<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/googlecloud/googlecloud-original.svg" width="40" height="40" alt="Google Cloud"/>](https://cloud.google.com/docs)
-  [<img src="https://cdn.simpleicons.org/ubuntu/E95420" width="40" height="40" alt="Ubuntu"/>](https://ubuntu.com/tutorials)
-  [<img src="https://cdn.simpleicons.org/streamlit/FF4B4B" width="40" height="40" alt="Streamlit"/>](https://docs.streamlit.io/)
+  <a href="https://git-scm.com/doc" title="Git Docs" style="text-decoration:none;border-bottom:0;">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="40" height="40" alt="Git" style="margin-right:10px;" />
+  </a>
+  <a href="https://docs.docker.com/" title="Docker Docs" style="text-decoration:none;border-bottom:0;">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" width="40" height="40" alt="Docker" style="margin-right:10px;" />
+  </a>
+  <a href="https://cloud.google.com/docs" title="Google Cloud Docs" style="text-decoration:none;border-bottom:0;">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/googlecloud/googlecloud-original.svg" width="40" height="40" alt="Google Cloud" style="margin-right:10px;" />
+  </a>
+  <a href="https://ubuntu.com/tutorials" title="Ubuntu Tutorials" style="text-decoration:none;border-bottom:0;">
+    <img src="https://cdn.simpleicons.org/ubuntu/E95420" width="40" height="40" alt="Ubuntu" style="margin-right:10px;" />
+  </a>
+  <a href="https://docs.streamlit.io/" title="Streamlit Docs" style="text-decoration:none;border-bottom:0;">
+    <img src="https://cdn.simpleicons.org/streamlit/FF4B4B" width="40" height="40" alt="Streamlit" style="margin-right:10px;" />
+  </a>
 </p>
+
 
 
 
